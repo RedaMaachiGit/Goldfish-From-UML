@@ -6,6 +6,7 @@
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="_h7BpsMs8EeW-IN5gXWk7bw" name="Utilisateur">
     <generalization xmi:id="_qt08EMs8EeW-IN5gXWk7bw" general="_xDhwUMswEeWCPOhYWc0FXw"/>
+    <ownedAttribute xmi:id="_qxXUEMtDEeW0So6maMaWAw" name="frequence"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="_iTz9IMs8EeW-IN5gXWk7bw" name="Commerçant">
     <generalization xmi:id="_rS8bUMs8EeW-IN5gXWk7bw" general="_xDhwUMswEeWCPOhYWc0FXw"/>
